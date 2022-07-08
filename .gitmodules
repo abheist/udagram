@@ -1,0 +1,6 @@
+[submodule "udagram-backend"]
+	path = udagram-backend
+	url = https://github.com/abheist/udagram-backend.git
+[submodule "udagram-serverless-frontend"]
+	path = udagram-serverless-frontend
+	url = https://github.com/abheist/udagram-serverless-frontend.git
